@@ -1,0 +1,2 @@
+ye mera real estate ka project hai ise window power cell me chlana hai uske liye pehle cd fir file ka path likhan hai
+or uske baat jupyter notebook likhna hai fir browswer me ye open hojayega
